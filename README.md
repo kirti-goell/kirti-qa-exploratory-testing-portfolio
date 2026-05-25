@@ -85,5 +85,5 @@ Open
 This repository is created solely for educational, learning, and portfolio purposes. All applications tested are publicly available applications downloaded from the Google Play Store. This repository does not claim any affiliation, employment, or partnership with the companies or applications mentioned.
 
 ## Author
-Kirti
+**Kirti** 
 Independent QA Testing & Exploratory Testing Portfolio
