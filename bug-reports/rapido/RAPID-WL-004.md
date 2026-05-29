@@ -44,4 +44,4 @@ Always (100%)
 Users may be unable to properly manage saved locations due to incorrect toggle behaviour.
 
 ## Attachment
-Screen recording attached (`likedScenario.mp4`)
+Screen recording attached (`wishlistRapido.mp4`)
